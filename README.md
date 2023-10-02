@@ -1,6 +1,7 @@
 <h1>Google Search Page Appearance</h1>
 
 This is my very first programming homework and the first website I ever coded
+<br>
 The appearance is similar to the original one but I have changed some details 
 
 <h1>Showcase : </h1>
